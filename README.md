@@ -3,10 +3,8 @@
  The application is a single file executable for use with Windows.
  
  shader-configurator-mpv currently only supports the following shader sets:
- <br />
- <a href=https://github.com/TianZerL/ACNetGLSL><b>ACNetGLSL</b></a>
- <br />
- <a href=https://github.com/bloc97/Anime4K><b>Anime4K</b></a>
+ **[ACNetGLSL](https://github.com/TianZerL/ACNetGLSL)**
+ **[Anime4K](https://github.com/bloc97/Anime4K)**
  
  <h2>Uses</h2>
  shader-configurator-mpv is uses are:
